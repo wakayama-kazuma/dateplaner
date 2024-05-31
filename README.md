@@ -1,4 +1,4 @@
-# dateplaner
+# DatePlaner
 
 デートプラン
 ■サービス概要
