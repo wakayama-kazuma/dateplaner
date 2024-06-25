@@ -84,5 +84,4 @@ https://www.figma.com/design/0jCGjADTj2QiUFyaaNINRh/%E7%84%A1%E9%A1%8C?node-id=0
 - [ ] 検索機能
 - [ ] デートプラン作成機能
 - [ ] プロフィール機能 
-- [ ] いいね機能
-- [ ] いいね解除機能
+
