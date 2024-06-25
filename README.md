@@ -75,3 +75,6 @@ API
 3. スポットの訪問順序と滞在時間を設定(移動手段)
 5. スポット間のルートがGoogle Maps上に表示
 6. 各ルートの移動時間、距離を確認
+
+## ■画面遷移図
+https://www.figma.com/design/0jCGjADTj2QiUFyaaNINRh/%E7%84%A1%E9%A1%8C?node-id=0-1&t=BiA9G6MfDHHlv07R-0
