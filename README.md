@@ -75,7 +75,7 @@ API
 6. 各ルートの移動時間、距離を確認
 
 ## ■画面遷移図
-https://www.figma.com/design/0jCGjADTj2QiUFyaaNINRh/%E7%84%A1%E9%A1%8C?node-id=0-1&t=2QmB0RucmxTAELSK-1
+[![Image from Gyazo](https://i.gyazo.com/4e686b19c81d7364483e8a2332fbade0.png)](https://gyazo.com/4e686b19c81d7364483e8a2332fbade0)
 
 ### READMEに記載した機能
 - [ ] ユーザー登録機能
