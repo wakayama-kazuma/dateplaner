@@ -75,7 +75,7 @@ API
 6. 各ルートの移動時間、距離を確認
 
 ## ■画面遷移図
-[![Image from Gyazo](https://i.gyazo.com/4e686b19c81d7364483e8a2332fbade0.png)](https://gyazo.com/4e686b19c81d7364483e8a2332fbade0)
+https://www.figma.com/design/0jCGjADTj2QiUFyaaNINRh/%E7%84%A1%E9%A1%8C?node-id=0
 
 ### READMEに記載した機能
 - [ ] ユーザー登録機能
@@ -86,6 +86,6 @@ API
 - [ ] いいね機能
 - [ ] いいね解除機能
 
-## ■画面遷移図
-<img width="681" alt="スクリーンショット 2024-07-03 16 35 58" src="https://github.com/wakayama-kazuma/dateplaner/assets/68979110/1cf61502-659f-4b2e-9184-f0b713b493be">
+## ■ER図
+[![Image from Gyazo](https://i.gyazo.com/4e686b19c81d7364483e8a2332fbade0.png)](https://gyazo.com/4e686b19c81d7364483e8a2332fbade0)
 
